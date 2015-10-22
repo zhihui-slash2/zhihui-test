@@ -1,0 +1,6 @@
+total 48
+drwxrwxr-x  3 zhihui zhihui  4096 Oct 22 15:18 .
+drwx------ 40 zhihui zhihui 20480 Oct 22 15:15 ..
+drwxrwxr-x  8 zhihui zhihui  4096 Oct 22 15:16 .git
+-rw-rw-r--  1 zhihui zhihui     0 Oct 22 15:18 newfile
+-rw-rw-r--  1 zhihui zhihui    14 Oct 22 15:15 README.md
